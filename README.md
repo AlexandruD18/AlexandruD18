@@ -12,10 +12,6 @@
     <b>🇬🇧 Hi!</b> I am a Backend Developer from Italy. <br>
     I am currently studying to become a <b>Full Stack Developer</b> specialized in <b>Cloud Technologies</b>.
   </p>
-
-  <br>
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   
   <br><br>
 
