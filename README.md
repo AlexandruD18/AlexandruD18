@@ -12,10 +12,6 @@
     <b>en Hi!</b> I am a Backend Developer from Italy. <br>
     I am currently studying to become a <b>Full Stack Developer</b> specialized in <b>Cloud Technologies</b>.
   </p>
-  
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=AlexandruD18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -64,4 +60,10 @@
   <a href="mailto:alexandru2112alex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexandruD18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
