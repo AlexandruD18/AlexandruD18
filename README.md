@@ -9,7 +9,7 @@
     Attualmente sto studiando per diventare <b>Full Stack Developer</b> con specializzazione in <b>Cloud Computing</b>.
   </p>
   <p>
-    <b>🇬🇧 Hi!</b> I am a Backend Developer from Italy. <br>
+    <b>en Hi!</b> I am a Backend Developer from Italy. <br>
     I am currently studying to become a <b>Full Stack Developer</b> specialized in <b>Cloud Technologies</b>.
   </p>
   
