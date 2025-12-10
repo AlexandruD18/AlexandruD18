@@ -10,7 +10,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="AlexandruD18 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=tokyonight" alt="AlexandruD18 Stats" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AlexandruD18&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandruD18&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
