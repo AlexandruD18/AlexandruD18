@@ -13,7 +13,7 @@
     I am currently studying to become a <b>Full Stack Developer</b> specialized in <b>Cloud Technologies</b>.
   </p>
   
-  <br><br>
+  <br>
 
   <img src="https://komarev.com/ghpvc/?username=AlexandruD18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
