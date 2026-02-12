@@ -52,16 +52,3 @@
     <img src="https://skillicons.dev/icons?i=js,html,css" height="45" />
   </a>
 </p>
-
-<br/>
-<hr/>
-
-<h3 align="center">📊 GitHub Activity</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruD18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
-</div>
-<br/>
-<div align="center">
-    <img src="https://ghchart.rshah.org/40c463/AlexandruD18" alt="Alexandru's Github chart" width="100%" />
-</div>
