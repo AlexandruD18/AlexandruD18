@@ -1,41 +1,55 @@
-<h1 align="center">Alexandru Mihai Dimofte</h1>
-<h4 align="center">📍 Italy | 💻 Backend & Cloud Developer</h4>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends;Learning+Cloud+Architecture;Full+Stack+Journey" alt="Typing SVG" />
-  </a>
-</p>
-
-<br>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Alexandru%20Mihai%20Dimofte&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+
+  <h3>
+    👋 Ciao, I'm a Backend Developer turning Full Stack
+  </h3>
+  
   <p>
-    🔭 Sto lavorando per diventare un <b>Full Stack Cloud Developer</b>.<br>
-    🌱 Attualmente approfondisco: <b>Docker, AWS & Microservices</b>.<br>
-    📫 Contattami: <a href="mailto:alexandru2112alex@gmail.com">alexandru2112alex@gmail.com</a>
+    🇮🇹 <b>Italia</b> • ☁️ <b>Cloud Computing</b> • 🚀 <b>Scalable Architetures</b>
   </p>
-</div>
+  
+  <br>
 
-<br>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <b>🇮🇹 Chi sono</b><br>
+        Attualmente sto evolvendo le mie competenze verso il <b>Full Stack</b> con un forte focus sulle tecnologie <b>Cloud</b>.
+      </td>
+      <td width="50%" align="center">
+        <b>🇬🇧 About Me</b><br>
+        Currently leveling up to become a <b>Full Stack Developer</b> with a specialization in <b>Cloud Technologies</b>.
+      </td>
+    </tr>
+  </table>
 
-<h3 align="left">💻 Technologies</h3>
-<hr>
+  <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Core-Python%20%7C%20Java%20%7C%20C%23-blue?style=flat-square" height="25"/>
-  <img src="https://img.shields.io/badge/Web-JS%20%7C%20HTML%20%7C%20CSS-orange?style=flat-square" height="25"/>
-  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20MySQL%20%7C%20Git-9cf?style=flat-square" height="25"/>
-</div>
+  <div>
+    <a href="https://github.com/AlexandruD18" target="_blank">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/alexandru-dimofte" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:alexandru2112alex@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+  </div>
 
-<br>
-<br>
+  <br>
+  <hr>
+  <br>
 
-<div align="center">
-  <a href="https://linkedin.com/in/alexandru-dimofte">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AlexandruD18">
-    <img src="https://img.shields.io/badge/Follow_on-GitHub-181717?style=style=flat&logo=github&logoColor=white" />
-  </a>
+  <h3 align="center">🛠️ Tech Stack</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,java,cs,mysql,docker,git&perline=6" />
+      <br>
+      <br>
+      <img src="https://skillicons.dev/icons?i=js,html,css,vscode,linux,aws&perline=6" />
+    </a>
+  </p>
 </div>
