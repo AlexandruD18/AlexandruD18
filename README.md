@@ -1,55 +1,67 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Alexandru%20Mihai%20Dimofte&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=220&section=header&text=Alexandru%20Mihai%20Dimofte&fontSize=70&fontAlignY=35&desc=Backend%20Developer%20%F0%9F%9A%80%20Towards%20Full%20Stack%20Cloud&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Alexandru Header" width="100%">
+</div>
 
-  <h3>
-    👋 Ciao, I'm a Backend Developer turning Full Stack
-  </h3>
-  
-  <p>
-    🇮🇹 <b>Italia</b> • ☁️ <b>Cloud Computing</b> • 🚀 <b>Scalable Architetures</b>
-  </p>
-  
-  <br>
+<br/>
 
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>🇮🇹 Chi sono</b><br>
-        Attualmente sto evolvendo le mie competenze verso il <b>Full Stack</b> con un forte focus sulle tecnologie <b>Cloud</b>.
-      </td>
-      <td width="50%" align="center">
-        <b>🇬🇧 About Me</b><br>
-        Currently leveling up to become a <b>Full Stack Developer</b> with a specialization in <b>Cloud Technologies</b>.
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <h3>👋 About Me</h3>
+      <p>
+        🇮🇹 <b>Ciao!</b> Sono uno sviluppatore Backend con una solida base in Java, Python e C#. Il mio focus attuale è l'evoluzione verso architetture <b>Cloud-Native</b> e il <b>Full Stack</b> development.
+      </p>
+      <p>
+        🇬🇧 <b>Hi!</b> I'm a Backend Developer with strong roots in Java, Python, and C#. My current focus is evolving rapidly towards <b>Cloud-Native</b> architectures and <b>Full Stack</b> development.
+      </p>
+      🌱 <i>Attualmente sto approfondendo: Microservizi Dockerizzati & Cloud deployment.</i>
+    </td>
+    <td width="35%" valign="top" style="border: none;">
+      <h3 align="center">📫 Connect</h3>
+      <div align="center">
+        <a href="https://linkedin.com/in/alexandru-dimofte" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&height=25">
+        </a>
+        <br/>
+        <a href="mailto:alexandru2112alex@gmail.com" target="_blank">
+           <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&height=25">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <br>
+<hr/>
 
-  <div>
-    <a href="https://github.com/AlexandruD18" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/alexandru-dimofte" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:alexandru2112alex@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-  </div>
+<h3 align="center">🛠️ The Arsenal</h3>
+<p align="center">
+  Core Languages & Backend<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,mysql,postgres" height="45" />
+  </a>
+</p>
+<p align="center">
+  DevOps, Cloud & Tools<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,azure" height="45" />
+  </a>
+</p>
+<p align="center">
+  Frontend Basics<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css" height="45" />
+  </a>
+</p>
 
-  <br>
-  <hr>
-  <br>
+<br/>
+<hr/>
 
-  <h3 align="center">🛠️ Tech Stack</h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,cs,mysql,docker,git&perline=6" />
-      <br>
-      <br>
-      <img src="https://skillicons.dev/icons?i=js,html,css,vscode,linux,aws&perline=6" />
-    </a>
-  </p>
+<h3 align="center">📊 GitHub Activity</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruD18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+    <img src="https://ghchart.rshah.org/40c463/AlexandruD18" alt="Alexandru's Github chart" width="100%" />
 </div>
