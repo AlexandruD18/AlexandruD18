@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Cloud-000000?style=flat&logo=google-cloud&logoColor=white&labelColor=4285F4" alt="Focus" />
   </a>
 
-  <br><br>
+  <br>
 
   <p style="font-size: 16px;">
     🇮🇹 <b>Sviluppatore Backend</b> con la testa tra le nuvole (il <b>Cloud</b>, letteralmente).<br>
