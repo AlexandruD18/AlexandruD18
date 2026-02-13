@@ -24,14 +24,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlexandruD18&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="alexandrud18" />
-  </a>
-</div>
-
-<br>
-
 <h3 align="center">⚡ Technologies & Tools</h3>
 
 <div align="center">
