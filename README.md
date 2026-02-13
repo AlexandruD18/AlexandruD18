@@ -55,9 +55,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="Stats" />
-</div>
