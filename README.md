@@ -11,10 +11,10 @@
         Sviluppatore Backend con base in <b>Italia</b> 🇮🇹.<br>
         Il mio focus non è solo scrivere codice, ma architettare soluzioni scalabili.
       </p>
-      <br>
       <blockquote>
         Currently transitioning from <b>Backend Specialist</b> to <b>Cloud-Native Full Stack Developer</b>.
       </blockquote>
+      <br>
       <h3>🎯 2025 Focus</h3>
       <ul>
         <li>☁️ <b>Cloud:</b> AWS Solutions Architecting</li>
