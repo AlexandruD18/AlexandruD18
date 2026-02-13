@@ -56,13 +56,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2196F3&icon_color=2196F3" height="180" alt="Alexandru's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruD18&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=2196F3" height="180" alt="Top Languages" />
-</div>
-
-<br>
+<h3 align="center">📫 Connect with me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexandru-dimofte" target="_blank">
