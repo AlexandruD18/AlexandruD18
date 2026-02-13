@@ -1,6 +1,8 @@
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Alexandru+Dimofte;Cloud+%26+Backend+Dev" alt="Typing SVG" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Alexandru+Dimofte;Cloud+%26+Backend+Dev" alt="Typing SVG" />
+  </a>
   
   <br>
 
@@ -55,9 +57,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2196F3&icon_color=2196F3" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2196F3&icon_color=2196F3" height="180" alt="Alexandru's Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruD18&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=2196F3" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruD18&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=2196F3" height="180" alt="Top Languages" />
 </div>
 
 <br>
