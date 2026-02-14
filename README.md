@@ -54,9 +54,6 @@
   <a href="https://www.linkedin.com/in/alexandru-dimofte" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/alexandrudimoftee/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="Instagram" />
-  </a>
   <a href="mailto:alexandru2112alex@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail" alt="Email" />
   </a>
