@@ -32,15 +32,6 @@
   <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=transparent&title_color=2196F3&icon_color=2196F3&text_color=888888&hide_border=true" alt="GitHub Stats" />
-
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/alexandru-dimofte">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=flat-square&logo=linkedin&logoColor=0077B5" />
-  </a>
-  <a href="mailto:alexandru2112alex@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-white?style=flat-square&logo=gmail&logoColor=D14836" />
-  </a>
   
   <br><br>
   
