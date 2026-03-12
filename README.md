@@ -33,7 +33,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=AlexandruD18&show_icons=true&theme=transparent&title_color=2196F3&icon_color=2196F3&text_color=888888&hide_border=true" alt="GitHub Stats" />
   
-  <br><br>
+  <br>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
