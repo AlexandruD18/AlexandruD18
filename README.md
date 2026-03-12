@@ -12,7 +12,7 @@
     <i>Trasformo idee complesse in interfacce fluide e memorabili. Il mio approccio unisce estetica moderna e codice pulito, mettendo l'utente sempre al centro del processo di sviluppo.</i>
   </p>
 
-  <br><br>
+  <br>
 
   <table style="border: none; width: 100%;">
     <tr>
