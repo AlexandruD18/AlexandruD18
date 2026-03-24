@@ -8,12 +8,6 @@
 
   <br>
 
-  <p style="max-width: 650px; font-size: 16px;">
-    <i>Trasformo idee complesse in interfacce fluide e memorabili. Il mio approccio unisce estetica moderna e codice pulito, mettendo l'utente sempre al centro del processo di sviluppo.</i>
-  </p>
-
-  <br>
-
   <table style="border: none; width: 100%;">
     <tr>
       <td width="50%" style="border: none; padding: 10px; text-align: left;">
