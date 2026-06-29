@@ -3,7 +3,7 @@
   <h1>alexandru dimofte</h1>
 
   <p align="center">
-    <kbd>full-stack developer</kbd> • <kbd>ui/ux designer</kbd> • <kbd>cloud tech</kbd>
+    <kbd>full-stack dev</kbd> • <kbd>ui/ux</kbd> • <kbd>cloud tech</kbd>
   </p>
 
   <br>
@@ -12,22 +12,16 @@
     <tr>
       <td width="50%" style="border: none; padding: 10px; text-align: left;">
         <h3>🎨 design & frontend</h3>
-        <p>designing with purpose: every pixel matters. building intuitive user journeys for seamless navigation.</p>
+        <p>purpose-driven design. building intuitive interfaces and seamless user experiences.</p>
         <code>figma</code> <code>javascript</code> <code>react</code> <code>tailwind</code>
       </td>
       <td width="50%" style="border: none; padding: 10px; text-align: left;">
         <h3>☁️ backend & cloud</h3>
-        <p>developing solid, scalable architectures with a strong focus on performance and cloud integration.</p>
+        <p>scalable architectures and optimized performance for cloud-native ecosystems.</p>
         <code>node.js</code> <code>python</code> <code>java</code> <code>docker</code> <code>c#</code>
       </td>
     </tr>
   </table>
-
-  <br>
-  
-  <p align="center">
-    <i>🌱 currently completing a 400-hour professional internship</i>
-  </p>
 
   <br>
 
