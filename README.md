@@ -17,7 +17,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/alexandru-dimofte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:alexandru2112alex@gmail.com"><img src="https://img.shields.io/badge/Say_hi-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://alexandrud18.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:alexandru2112alex@gmail.com"><img src="https://img.shields.io/badge/Gmail-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
